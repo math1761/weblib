@@ -1,0 +1,14 @@
+.alertContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: orange;
+    p {
+        font-family: "Source sans Pro";
+        font-weight: 700;
+        color: white;
+    }
+}

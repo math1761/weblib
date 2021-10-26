@@ -1,0 +1,64 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "name": "Toto 1",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 2,
+            "name": "Toto 2",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 3,
+            "name": "Toto 3",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 4,
+            "name": "Toto 4",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 5,
+            "name": "Toto 5",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 6,
+            "name": "Toto 6",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 7,
+            "name": "Toto 7",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 8,
+            "name": "Toto 8",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 9,
+            "name": "Toto 9",
+            "description": "Description",
+            "quantity": 0
+        },
+        {
+            "id": 10,
+            "name": "Toto 10",
+            "description": "Description",
+            "quantity": 0
+        }
+    ]
+}

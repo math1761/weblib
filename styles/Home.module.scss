@@ -1,0 +1,23 @@
+.header {
+  height: 60px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  font-family: "Inter";
+  border: 1px solid black;
+}
+
+.catImage {
+  margin: 0 auto;
+  display: block;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}

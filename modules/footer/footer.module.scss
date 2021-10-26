@@ -1,0 +1,10 @@
+.footer {
+    width: 100%;
+    border: 1px solid grey;
+    text-align: center;
+    &:hover {
+        background: blue;
+        color: white;
+        cursor: pointer;
+    }
+}
